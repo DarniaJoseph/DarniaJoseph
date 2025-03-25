@@ -51,6 +51,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarniaJoseph&layout=compact&theme=radical)
 
 ---
+### 🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarniaJoseph&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🌟 **Fun Fact**
 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
