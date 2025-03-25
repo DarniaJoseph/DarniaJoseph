@@ -1,11 +1,7 @@
 
-<!-- Banner or Profile Header -->
-![Welcome](https://user-images.githubusercontent.com/your-username/banner-image.png)  
-<!-- You can add a banner image here. Use a relevant tech-themed banner. -->
-
 # 👋 Hi, I'm Darnia J
 🎓 **Computer Science Student** | 💡 Tech Enthusiast | 🛠️ **Problem Solver**
-I'm currently learning MERN
+    I'm currently learning MERN
 🔹 **Currently pursuing my UG degree at K. Ramakrishnan College of Engineering**  
 🔹 **Passionate about coding, problem-solving, and building innovative solutions**  
 🔹 **Exploring the latest tech trends and creating impactful projects**
